@@ -1,4 +1,4 @@
-<h1>Video-Games-Sales-Data-Analysis</h1>
+<h1>Video Games Sales Data Analysis</h1>
 
 <h2>Description</h2>
 
