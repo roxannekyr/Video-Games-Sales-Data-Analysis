@@ -21,8 +21,13 @@ Box Plots: Statistical distribution of National Sales by Country to visualize sp
 Pie Charts: Side-by-side composition analysis of National vs. Global Sales by Country.
 Line Charts: Time-series analysis tracking National and Global Sales trends for years greater than 2010.
 
-<h2>Insights walk-through:</h2>
+- <b>Python</b> 
+- <b>Pandas</b>
+- <b>Numpy</b>
+- <b>Matplotlib</b>
+- <b>Seaborn</b>
 
+<h2>Insights walk-through:</h2>
 
 National Sales by Region & Country: <br/>
 <img src="https://i.imgur.com/yWK7Uuu.png" height="80%" width="80%" alt="National Sales by Region & Country"/>
